@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+- I graduated from Middlesex University with a Product Design Engineering degree.
+- I am curruntly a trainee Full Stack Engineer at IT CareerSwitch.
+- I am actively engaged in mixed martial arts Muay Thai training.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
