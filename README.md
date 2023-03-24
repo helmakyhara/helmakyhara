@@ -5,7 +5,7 @@
 - 💻 I am curruntly a trainee Full Stack Engineer at IT CareerSwitch. 
 - 👊 Fun fact: I am actively engaged in mixed martial arts Muay Thai training.
 - 🔖 Love to read. 
-- 🤚 I consider myself a curious George, so I'm keen to learn more.
+- 🤚 I consider myself a "Curious George", so I'm always seeking to learn more.
 - 🙂 Youth Leader and mentor.
 
 
