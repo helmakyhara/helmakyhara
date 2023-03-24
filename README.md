@@ -1,20 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Helma 👋
 
-<!--
-**helmakyhara/helmakyhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📚🎓 I graduated from Middlesex University with a Product Design Engineering degree.
+- 💻 I am curruntly a trainee Full Stack Engineer at IT CareerSwitch. 
+- 👊 Fun fact: I am actively engaged in mixed martial arts Muay Thai training.
+- 🔖 Love to read. 
+- 🤚 I consider myself a curious George, so I'm keen to learn more.
+- 🙂 Youth Leader and mentor.
 
-- I graduated from Middlesex University with a Product Design Engineering degree.
-- I am curruntly a trainee Full Stack Engineer at IT CareerSwitch.
-- I am actively engaged in mixed martial arts Muay Thai training.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During my time at University, one of my last modules consisted of some coding using Python language, which was the most exciting part for me throughtout my whole experience at university. So, after completing my degree, I delved into some programming languages, and I began to self study in my spare time to gain more knowledge and technical skills needed to apply for roles. I am now a trainee Full Stack Engineer at ITCareer Switch, which is supporting me in understanding different coding languages such as HTML, CSS, JavaScript, Python and more. 
+
+I am a dynamic and hardworking individual, who always aims to complete tasks efficiently and effectively, whether it is working productively in a team, or individually. I.T has always been an area which I perform strongly in, this allowed me to enjoy what I do, even in the learning process. I will continue to widen my skills in the programming world.
+
+💬 Self Learning Resources Recommended:
+
+- Udemy: Java MasterClass
